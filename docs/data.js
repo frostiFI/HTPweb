@@ -53,7 +53,7 @@ var APP_DATA = {
           "yaw": -2.504037505099925,
           "pitch": 0.23062472589060334,
           "title": "<ul><li><p style=\"margin-bottom: 0cm; line-height: 100%\">Hyvän\n\tTuulen paja</p>\n</li></ul>",
-          "text": "<p style=\"margin-bottom: 0cm; line-height: 100%\">Hyvän Tuulen paja on Uuraisten kunnan työpaja.&nbsp;</p><p style=\"margin-bottom: 0cm; line-height: 100%\"><br></p><p style=\"margin-bottom: 0cm; line-height: 100%\">https://uurainen.fi/</p>"
+          "text": "<p style=\"margin-bottom: 0cm; line-height: 100%\">Hyvän Tuulen paja on Uuraisten kunnan työpaja.&nbsp;</p><p style=\"margin-bottom: 0cm; line-height: 100%\"><br></p><p style=\"margin-bottom: 0cm; line-height: 100%\">Sen näkee suun muodosta.</p>"
         }
       ]
     },

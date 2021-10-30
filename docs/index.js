@@ -164,6 +164,7 @@
   var viewRightElement = document.querySelector('#viewRight');
   var viewInElement = document.querySelector('#viewIn');
   var viewOutElement = document.querySelector('#viewOut');
+  //var viewMapElement = document.querySelector('#viewMap');
 
   // Dynamic parameters for controls.
   var velocity = 0.7;
