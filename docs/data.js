@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": -0.07010319608244586,
           "pitch": 0.16288240760741957,
           "title": "Sorvasen lintutorni",
-          "text": "Text"
+          "text": "Mikä on Sorvasen lintutornin syntymähistoria?"
         },
         {
           "yaw": 2.830125614808134,
@@ -115,7 +115,7 @@ var APP_DATA = {
       ]
     }
   ],
-  "name": "SorvasenLT",
+  "name": "Sorvasen Lintutornin Nettisivu",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
