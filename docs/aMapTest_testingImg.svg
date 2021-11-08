@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="aMapTest_testing.svg">
+   sodipodi:docname="aMapTest_testingImg.svg">
   <defs
      id="defs2">
     <inkscape:perspective
@@ -86,7 +86,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4060947"
+     inkscape:zoom="4.8587603"
      inkscape:cx="424.71866"
      inkscape:cy="198.3362"
      inkscape:document-units="mm"
@@ -111,7 +111,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -394,7 +394,7 @@
      id="layer4"
      inkscape:label="testing">
     <rect
-       style="fill:#000000;stroke:#70747c;stroke-width:1.23;fill-opacity:1;stroke-opacity:1"
+       style="fill:#103115;stroke:#58688f;stroke-width:1.23;fill-opacity:1;stroke-opacity:1"
        id="rect881"
        width="32.3923"
        height="26.721706"
