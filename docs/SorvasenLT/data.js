@@ -46,7 +46,7 @@ var APP_DATA = {
         {
           "yaw": 2.830125614808134,
           "pitch": 0.16800575621143032,
-          "title": "Polkku&nbsp;",
+          "title": "Polku&nbsp;",
           "text": "Tornille lähtevän polun päässä on opastetaulu.&nbsp;<div><br><div>Käveltävää kertyy parisataa metriä vihreän kuusimetsän läpi.</div></div>"
         },
         {
@@ -109,7 +109,7 @@ var APP_DATA = {
         {
           "yaw": 2.1570918293931394,
           "pitch": 0.021336093562037917,
-          "title": "Pesa",
+          "title": "Linnunpönttö",
           "text": "Pesimälajistoon ovat kuuluneet mustakurkku-uikku, laulujoutsen, valkoviklo ja kurki."
         }
       ]
