@@ -41,7 +41,7 @@ var APP_DATA = {
           "yaw": -0.07010319608244586,
           "pitch": 0.16288240760741957,
           "title": "Sorvasen lintutorni",
-          "text": "Mikä on Sorvasen lintutornin syntymähistoria?"
+          "text": "Lintutorni on rakennettu kesällä 2007 ympäristökeskuksen YTY-projektin toimesta."
         },
         {
           "yaw": 2.830125614808134,
@@ -110,7 +110,7 @@ var APP_DATA = {
           "yaw": 2.1570918293931394,
           "pitch": 0.021336093562037917,
           "title": "Linnunpönttö",
-          "text": "Pesimälajistoon ovat kuuluneet mustakurkku-uikku, laulujoutsen, valkoviklo ja kurki."
+          "text": "Pesimälajistoon ovat kuuluneet mustakurkku-uikku, laulujoutsen, valkoviklo, kurki ja pieni naurulokkiyhdyskunta."
         }
       ]
     }
